@@ -6,7 +6,7 @@ This repository stands as an opinionated example workflow for using Github and g
 
 To install git please follow the directions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-## All commands will all be bash commands
+**All commands will all be bash commands**
 
 ## Git Basics
 
